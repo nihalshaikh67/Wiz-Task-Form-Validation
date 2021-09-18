@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Wiz-Task-Form-Validation/static/css/main.8c52441c.chunk.css",
+    "main.js": "/Wiz-Task-Form-Validation/static/js/main.f41abffc.chunk.js",
+    "main.js.map": "/Wiz-Task-Form-Validation/static/js/main.f41abffc.chunk.js.map",
+    "runtime-main.js": "/Wiz-Task-Form-Validation/static/js/runtime-main.90afe026.js",
+    "runtime-main.js.map": "/Wiz-Task-Form-Validation/static/js/runtime-main.90afe026.js.map",
+    "static/js/2.1960295f.chunk.js": "/Wiz-Task-Form-Validation/static/js/2.1960295f.chunk.js",
+    "static/js/2.1960295f.chunk.js.map": "/Wiz-Task-Form-Validation/static/js/2.1960295f.chunk.js.map",
+    "static/js/3.52590645.chunk.js": "/Wiz-Task-Form-Validation/static/js/3.52590645.chunk.js",
+    "static/js/3.52590645.chunk.js.map": "/Wiz-Task-Form-Validation/static/js/3.52590645.chunk.js.map",
+    "index.html": "/Wiz-Task-Form-Validation/index.html",
+    "static/css/main.8c52441c.chunk.css.map": "/Wiz-Task-Form-Validation/static/css/main.8c52441c.chunk.css.map",
+    "static/js/2.1960295f.chunk.js.LICENSE.txt": "/Wiz-Task-Form-Validation/static/js/2.1960295f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90afe026.js",
+    "static/js/2.1960295f.chunk.js",
+    "static/css/main.8c52441c.chunk.css",
+    "static/js/main.f41abffc.chunk.js"
+  ]
+}
