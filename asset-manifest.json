@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Wiz-Task-Form-Validation/static/css/main.8c52441c.chunk.css",
-    "main.js": "/Wiz-Task-Form-Validation/static/js/main.f41abffc.chunk.js",
-    "main.js.map": "/Wiz-Task-Form-Validation/static/js/main.f41abffc.chunk.js.map",
+    "main.js": "/Wiz-Task-Form-Validation/static/js/main.3c04d920.chunk.js",
+    "main.js.map": "/Wiz-Task-Form-Validation/static/js/main.3c04d920.chunk.js.map",
     "runtime-main.js": "/Wiz-Task-Form-Validation/static/js/runtime-main.90afe026.js",
     "runtime-main.js.map": "/Wiz-Task-Form-Validation/static/js/runtime-main.90afe026.js.map",
     "static/js/2.1960295f.chunk.js": "/Wiz-Task-Form-Validation/static/js/2.1960295f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.90afe026.js",
     "static/js/2.1960295f.chunk.js",
     "static/css/main.8c52441c.chunk.css",
-    "static/js/main.f41abffc.chunk.js"
+    "static/js/main.3c04d920.chunk.js"
   ]
 }
