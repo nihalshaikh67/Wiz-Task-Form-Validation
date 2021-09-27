@@ -13,9 +13,6 @@ const Signup = () => {
         e.preventDefault();
         if (valid()) {
             alert(' The form is successfully submitted');
-            setNameError('');
-            setEmailError('');
-            setPasswordError('');
             setName('');
             setEmail('');
             setPassword('');
@@ -46,6 +43,9 @@ const Signup = () => {
     }
 
     const valid = () => {
+        setNameError('');
+        setEmailError('');
+        setPasswordError('');
         let check = true;
         if (name === '') {
             setNameError('please enter the name');
@@ -97,7 +97,7 @@ const Signup = () => {
                                     </div>
                                     <div class="app-form-group">
                                         <input
-                                            type="password" class="app-form-control"
+                                            type="text" class="app-form-control"
                                             placeholder="Enter password"
                                             value={password}
                                             onChange={(e) => setPassword(e.target.value)}
